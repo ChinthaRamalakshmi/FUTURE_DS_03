@@ -59,8 +59,6 @@ This analysis helps improve marketing strategies by identifying key customer seg
 
 
 ## 🟤 📸 Dashboard Output
-![alt text](dashboard-2.png)
-
 ✔ Full view of all charts  
 ✔ KPI card visible  
 ✔ Clean layout
