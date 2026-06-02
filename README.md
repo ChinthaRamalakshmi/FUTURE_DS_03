@@ -55,11 +55,12 @@ Analyzes demographic patterns like education & marital status
 
 
 ## 🔴 🎯 Conclusion
-This analysis helps improve marketing strategies by identifying key customer segments and optimizing conversion performance in the funnel.
+This analysis helps improve marketing strategies by identifying key customer segments and optimizing conversion performance  in the funnel.
 
 
 ## 🟤 📸 Dashboard Output
 ![alt text](dashboard-2.png)
+
 ✔ Full view of all charts  
 ✔ KPI card visible  
 ✔ Clean layout
